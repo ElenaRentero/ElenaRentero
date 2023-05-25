@@ -46,7 +46,7 @@ I am a junior front-end developer with experience in customer service and incide
 </h2>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaRentero&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaRentero&theme=material-palenight&layout=compact)](https://github.com/elenarentero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaRentero&layout=compact&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/ElenaRentero/github-readme-stats)
 
 <!--
 **ElenaRentero/ElenaRentero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
